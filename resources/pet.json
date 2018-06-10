@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "category": {
+    "id": 11,
+    "name": "dogs"
+  },
+  "name": "Max",
+  "photoUrls": [
+    "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg"
+  ],
+  "tags": ["GSD", "German Shepard", "#bestfriend"],
+  "status": "active"
+}
