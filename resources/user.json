@@ -1,0 +1,9 @@
+{
+  "id" : 1 ,
+  "firstName" : "Rinisha",
+  "lastName" : "Giri",
+  "email" : "mathdoll@extropysolutions.com",
+  "password" : "mathdoll",
+  "securitySocialNumber" : "123456789" ,
+  "isAdmin" : false
+}

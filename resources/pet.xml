@@ -1,0 +1,13 @@
+<pet>
+    <id>1</id>
+    <category>
+        <id>11</id>
+        <name>dogs</name>
+    </category>
+    <name>"Max"</name>
+    <photoUrls>["https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg"]</photoUrls>
+    <tags>["GSD", "German Shepard", "#bestfriend"]</tags>
+    <status>"active"</status>
+</pet>
+
+

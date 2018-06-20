@@ -1,0 +1,9 @@
+<User>
+    <id>1</id>
+    <firstName>"Rinisha"</firstName>
+    <lastName>"Giri"</lastName>
+    <email>"mathdoll@extropysolutions.com"</email>
+    <password>"mathdoll"</password>
+    <securitySocialNumber>"123456789"</securitySocialNumber>
+    <isAdmin>false</isAdmin>
+</User>
