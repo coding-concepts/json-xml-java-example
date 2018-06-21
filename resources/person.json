@@ -1,6 +1,9 @@
 {
   "id":1,
   "name" : "Rinisha",
-  "address" : "Fremont 94536",
+  "address" : {
+    "city": "Fremont",
+    "zip" : 94536
+},
   "mobilePhoneNumbers" : [5105793452, 5108165998, 6508677204]
 }

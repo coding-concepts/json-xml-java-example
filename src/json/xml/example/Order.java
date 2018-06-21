@@ -56,8 +56,8 @@ public class Order {
     public void setPlaced(String placed) {
         this.placed = placed;
     }
-}
 
+}
 
 
 

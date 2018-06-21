@@ -1,6 +1,11 @@
 <person>
     <id>1</id>
     <name>"Rinisha"</name>
-    <address>Fremont 94536</address>
+    <address>
+        <City>Fremont</City>
+        <Zip>94536</Zip>
+    </address>
     <mobilePhoneNumbers>[5108165998, 5105793452, 6508677204]</mobilePhoneNumbers>
 </person>
+
+
