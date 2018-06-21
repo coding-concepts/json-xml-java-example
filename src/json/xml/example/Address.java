@@ -15,4 +15,10 @@ public class Address {
     public void setZip(String zip) {
         this.zip = zip;
     }
+
+
+    public Address(String city, String zip) {
+        this.city = city;
+        this.zip = zip;
+    }
 }
